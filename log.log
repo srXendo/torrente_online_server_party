@@ -1,0 +1,111 @@
+Servidor UDP escuchando en 0.0.0.0:8888
+------INICIO DE LA ESCUCHA------
+Mensaje recibido: 192.168.1.134:2302
+0002bd1c011242191fb8bb154e4401763631007932
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+0002c11c011242191fb8bb154e4401763631007932
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+8801000006000100e2c69b199ed39503
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+8002010006000100e2c69b199ed39503
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+3f020000e2c69b19
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+7f000100c100000002000000070000005800000014000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000430068006100760061006c006f00740065000000
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+7f000202c3000000
+handler_message
+0x07 no recognice
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+3f00030200004a756e696f72506300000000000000001c02000000000000000000000806000000004d505f444d5f474152414a450000000070b5190090b51900be000000b0b4190001000000010000000500000074b31900c793e35380b3190001000000406e7800
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+3f020404e2c69b19
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+8006010005050000a4d39503
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f000505010e000000000000000000000363011070b21900021c0610
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+8006010006050000a4d39503
+handler_message
+2302 192.168.1.134
+Respuesta enviada: 2302:192.168.1.134
+------FIN DEL MENSAJE------
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
+Mensaje recibido: 192.168.1.134:2302
+3f030405e2c69b19
+handler_message
+err: msg not recognice:  3f030405e2c69b19
