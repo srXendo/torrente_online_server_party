@@ -33,7 +33,7 @@ function handler_message(msg, rinfo){
         case 0x3f02:
             session_ping = msg.slice(3, -1)
             let res =  Buffer.from('800601000b0a000035507300','hex')
-            let tick = Buffer.from("3f000a0802d8", "hex")
+            let tick = Buffer.from("3f00086e10ce000000000000", "hex")
             if(msg.readUInt8(2)+1 > 255){
                 res.writeUint8(0, 5)
                 tick.writeUint8(0, 3)
@@ -122,7 +122,15 @@ function client_action(msg){
     }else{
         switch(msg.readUInt8(5)){
             case 0x0e:
-                return [] 
+                const respawn = Buffer.from('3f000aed000e00001a54f24444220242764337c500000000ff0b0610', 'hex')
+                if(msg.readUInt8(2)+1 > 255){
+                    respawn.writeUint8(0, 3)
+                    
+                }else{
+                    respawn.writeUint8(msg.readUInt8(2)+1, 3)
+                }
+                respawn.writeUint8(msg.readUInt8(3), 2)          
+                return [respawn] 
             break;
         }
 
